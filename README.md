@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Docker, and deployment**
 
-- 👨‍💻 All of my projects are available at [repo link](https://github.com/adrianhuber17?tab=repositories)
+- 👨‍💻 All of my projects are available in [my repos](https://github.com/adrianhuber17?tab=repositories)
 
-- 📝 Check out my latest article [https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977](https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977)
+- 📝 Check out my latest article [Flask-React-WebSocket](https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977)
 
 - 💬 Ask me about **Python, Flask, JavaScript, React, Data**
 
 - 📫 How to reach me **adrianhuber17@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adrianhuber17/overlay/1635504604075/single-media-viewer/](https://www.linkedin.com/in/adrianhuber17/overlay/1635504604075/single-media-viewer/)
+- 📄 My experience [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635504604075/single-media-viewer/)
 
 - ⚡ Fun fact **I love to cycle and play with my dog!**
 
