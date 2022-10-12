@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, and deployment**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adrianhuber17?tab=repositories](https://github.com/adrianhuber17?tab=repositories)
+- 👨‍💻 All of my projects are available at [repo link](https://github.com/adrianhuber17?tab=repositories)
 
 - 📝 Check out my latest article [https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977](https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977)
 
