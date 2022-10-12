@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrian Huber</h1>
 <h3 align="center">I am passionate about finding insights in large data sets, automation and resolving complex problems using software.</h3>
 
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianhuber17)](https://github.com/adrianhuber17/github-readme-stats)
+
 - 🔭 I’m currently working on [fitness-app](https://github.com/adrianhuber17/fitness-app)
 
 - 🌱 I’m currently learning **Docker, and deployment**
