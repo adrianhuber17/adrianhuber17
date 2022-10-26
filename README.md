@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adrian Huber</h1>
 <p align="center">I am a self-taught software engineer with 7 years of experience as a mechanical engineer. I am passionate about finding insights in large data sets, automation and resolving complex problems using software.</p>
 
-- 🌱 I’m currently learning **Docker, and deployment**
+- 🌱 I’m currently learning **Docker and deployment**
 
 - 👨‍💻 All of my projects are available in [my repos](https://github.com/adrianhuber17?tab=repositories)
 
-- 📝 Check out my latest article [Flask-React-WebSocket](https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977)
+- 📝 Check out my latest article: [Flask-React-WebSocket](https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977)
 
-- 📫 How to reach me **adrianhuber17@gmail.com**
+- 📫 How to reach me: **adrianhuber17@gmail.com**
 
-- 📄 My experience [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635504604075/single-media-viewer/)
+- 📄 My experience: [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635504604075/single-media-viewer/)
 
-- ⚡ Fun fact **I love to cycle and hike with my dog Ziggy!**
+- ⚡ Fun fact: **I love to cycle and play with my dog Ziggy!**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhuber17&layout=compact&show_icons=true&theme=radical)](https://github.com/adrianhuber17/github-readme-stats)
 
