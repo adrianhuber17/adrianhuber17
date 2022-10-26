@@ -11,7 +11,7 @@
 
 - 📄 My experience [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635504604075/single-media-viewer/)
 
-- ⚡ Fun fact **I love to cycle and hike with my dog!**
+- ⚡ Fun fact **I love to cycle and hike with my dog Ziggy!**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhuber17&layout=compact&show_icons=true&theme=radical)](https://github.com/adrianhuber17/github-readme-stats)
 
