@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **adrianhuber17@gmail.com**
 
-- 📄 My experience: [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635504604075/single-media-viewer/)
+- 📄 My experience: [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635505829473/single-media-viewer/)
 
 - ⚡ Fun fact: **I love to cycle and play with my dog Ziggy!**
 
