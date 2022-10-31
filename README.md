@@ -9,9 +9,9 @@
 
 - 📫 How to reach me: **adrianhuber17@gmail.com**
 
-- 📄 My experience: [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635505829473/single-media-viewer/)
+- 📄 My experience: [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635506113907/single-media-viewer/)
 
-- ⚡ Fun fact: **I love to cycle and play with my dog Ziggy!**
+- ⚡ Hobbies: **I love to cycle 🚲**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhuber17&layout=compact&show_icons=true&theme=radical)](https://github.com/adrianhuber17/github-readme-stats)
 
