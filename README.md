@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **adrianhuber17@gmail.com**
 
-- 📄 My experience: [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635507362717/single-media-viewer/)
+- 📄 My experience: [Resume](https://www.linkedin.com/in/adrianhuber17/overlay/1635507367983/single-media-viewer/)
 
 - ⚡ Hobbies: **I love to cycle 🚲**
 
