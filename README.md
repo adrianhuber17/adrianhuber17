@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available in [my repos](https://github.com/adrianhuber17?tab=repositories)
 
-- 📝 Check out my latest article: [Flask-React-WebSocket](https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977)
+- 📝 Check out my latest article: [How to build a simple real-time application using flask, react and socket-io](https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977), [How to dockerize a simple app using flask, react, postgresql, and socket.io](https://medium.com/@adrianhuber17/how-to-dockerize-a-simple-app-using-flask-react-postgresql-and-socket-io-987b1b04faf0)
 
 - 📫 How to reach me: **adrianhuber17@gmail.com**
 
