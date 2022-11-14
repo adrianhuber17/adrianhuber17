@@ -3,6 +3,8 @@
 
 [🔵 I'm currently open for work and looking for new software engineering opportunities! 🔵](https://www.linkedin.com/in/adrianhuber17/)
 
+<h1></h1>
+
 - 🌱 I’m currently learning **Docker and deployment**
 
 - 👨‍💻 All of my projects are available in [my repos](https://github.com/adrianhuber17?tab=repositories)
