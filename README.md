@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Huber</h1>
-<p align="center">I am a self-taught software engineer with 7 years of experience as a mechanical engineer. I am passionate about finding insights in large data sets, automation and resolving complex problems using software. (Open for work, looking for new software engineering opportunities!)</p>
+<p align="center">I am a self-taught software engineer with 7 years of experience as a mechanical engineer. I am passionate about finding insights in large data sets, automation and resolving complex problems using software.</p>
+
+- I'm currently pen for work and looking for new software engineering opportunities!
 
 - 🌱 I’m currently learning **Docker and deployment**
 
