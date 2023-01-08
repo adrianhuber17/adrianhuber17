@@ -7,6 +7,11 @@
 
 - 🌱 I’m currently working on a [Premier League Sentiment App](https://github.com/adrianhuber17/premier-league-sentiment) using Natural Language Procesing and Machine Learning
 
+- 💻 Main Projects:
+
+  - [Cycling App](https://github.com/adrianhuber17/fitness-app)
+  - [Premier League Sentiment App](https://github.com/adrianhuber17/premier-league-sentiment)
+
 - 👨‍💻 All of my projects are available in [my repos](https://github.com/adrianhuber17?tab=repositories)
 
 - 📝 Check out my latest Medium articles:
