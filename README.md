@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Huber</h1>
 <p align="center">I am a self-taught software engineer with 7 years of experience as a mechanical engineer. I am passionate about finding insights in large data sets, automation and solving complex problems using software.</p>
 
-[🔵 I'm currently open for work and looking for new software engineering opportunities! 🔵](https://www.linkedin.com/in/adrianhuber17/)
-
 <h1></h1>
 
 - 🌱 I’m currently working on a [Premier League Sentiment App](https://github.com/adrianhuber17/premier-league-sentiment) using Natural Language Procesing and Machine Learning
