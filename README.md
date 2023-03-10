@@ -3,7 +3,7 @@
 
 <h1></h1>
 
-- 🌱 I’m currently working on a [Premier League Sentiment App](https://github.com/adrianhuber17/premier-league-sentiment) using Natural Language Procesing and Machine Learning
+- 🌱 I’m currently working on a [Premier League Sentiment App](https://github.com/adrianhuber17/premier-league-sentiment)
 
 - 💻 Main Projects:
 
