@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Adrian Huber</h1>
+<h1 align="center">Hi 👋, I'm Adrian Huber</h1>
 <p align="center">I am a self-taught software engineer with 8 years of experience as a mechanical engineer. I am currently working as a Software Engineer for PG&E.</p>
 
 <h1></h1>
